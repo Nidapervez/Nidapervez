@@ -41,11 +41,7 @@
 
 ---
 
-## 🚀 Projects
 
-🔹 **[Agentia AI](https://github.com/Nidapervez/Agentia-AI)** - AI-based Web Assistant<br>
-🔹 **[Library Management System](https://github.com/Nidapervez/Library-System)** - Python & MySQL-based LMS<br>
-🔹 **[E-Commerce Dashboard](https://github.com/Nidapervez/Ecom-Dashboard)** - Stripe Integrated Dashboard<br>
 
 ---
 
